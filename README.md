@@ -12,7 +12,7 @@ Uma Pokedex simplificada com filtros e pesquisa dinamica utilizando a pokeAPI
 ## Integrantes
 Vinicius de Carvalho 
 
-Leonardo 
+Leonardo Henrique Florencio 
 
 ## Rodar projeto
 
